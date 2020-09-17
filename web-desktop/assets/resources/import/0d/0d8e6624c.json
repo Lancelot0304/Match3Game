@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"match_food","texture":"1cc582599","rect":[445,1436,109,90],"offset":[1,-4.5],"originalSize":[117,117],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"match_item_frame","texture":"1cc582599","rect":[499,1817,98,98],"offset":[0,0],"originalSize":[98,98],"capInsets":[0,0,0,0]}}]

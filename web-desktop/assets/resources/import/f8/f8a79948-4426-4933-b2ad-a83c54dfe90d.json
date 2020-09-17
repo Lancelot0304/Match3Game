@@ -1,1 +1,0 @@
-{"__type__":"cc.AnimationClip","_name":"appear","_duration":0.3333333333333333,"curveData":{"paths":{"Box":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2"},"curve":[0.18,0.89,0.31,1.21]},{"frame":0.3333333333333333,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}}}
